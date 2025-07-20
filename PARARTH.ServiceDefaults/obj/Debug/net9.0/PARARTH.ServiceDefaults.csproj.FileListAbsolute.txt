@@ -1,0 +1,12 @@
+C:\Users\shiva\source\repos\PARARTH\PARARTH.ServiceDefaults\bin\Debug\net9.0\PARARTH.ServiceDefaults.deps.json
+C:\Users\shiva\source\repos\PARARTH\PARARTH.ServiceDefaults\bin\Debug\net9.0\PARARTH.ServiceDefaults.dll
+C:\Users\shiva\source\repos\PARARTH\PARARTH.ServiceDefaults\bin\Debug\net9.0\PARARTH.ServiceDefaults.pdb
+C:\Users\shiva\source\repos\PARARTH\PARARTH.ServiceDefaults\obj\Debug\net9.0\PARARTH.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\shiva\source\repos\PARARTH\PARARTH.ServiceDefaults\obj\Debug\net9.0\PARARTH.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiva\source\repos\PARARTH\PARARTH.ServiceDefaults\obj\Debug\net9.0\PARARTH.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\shiva\source\repos\PARARTH\PARARTH.ServiceDefaults\obj\Debug\net9.0\PARARTH.ServiceDefaults.AssemblyInfo.cs
+C:\Users\shiva\source\repos\PARARTH\PARARTH.ServiceDefaults\obj\Debug\net9.0\PARARTH.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\shiva\source\repos\PARARTH\PARARTH.ServiceDefaults\obj\Debug\net9.0\PARARTH.ServiceDefaults.dll
+C:\Users\shiva\source\repos\PARARTH\PARARTH.ServiceDefaults\obj\Debug\net9.0\refint\PARARTH.ServiceDefaults.dll
+C:\Users\shiva\source\repos\PARARTH\PARARTH.ServiceDefaults\obj\Debug\net9.0\PARARTH.ServiceDefaults.pdb
+C:\Users\shiva\source\repos\PARARTH\PARARTH.ServiceDefaults\obj\Debug\net9.0\ref\PARARTH.ServiceDefaults.dll
