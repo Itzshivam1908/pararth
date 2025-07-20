@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiva\\source\\repos\\PARARTH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0A5BDD-CFD7-D717-CFA5-C3B19AFA18BA}|PARARTH.Web\\PARARTH.Web.csproj|c:\\users\\shiva\\source\\repos\\pararth\\pararth.web\\the-pararth-trust-main\\the-pararth-trust-main\\the pararth trust\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BF0A5BDD-CFD7-D717-CFA5-C3B19AFA18BA}|PARARTH.Web\\PARARTH.Web.csproj|solutionrelative:pararth.web\\the-pararth-trust-main\\the-pararth-trust-main\\the pararth trust\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0A5BDD-CFD7-D717-CFA5-C3B19AFA18BA}|PARARTH.Web\\PARARTH.Web.csproj|c:\\users\\shiva\\source\\repos\\pararth\\pararth.web\\the-pararth-trust-main\\the-pararth-trust-main\\the pararth trust\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF0A5BDD-CFD7-D717-CFA5-C3B19AFA18BA}|PARARTH.Web\\PARARTH.Web.csproj|solutionrelative:pararth.web\\the-pararth-trust-main\\the-pararth-trust-main\\the pararth trust\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0A5BDD-CFD7-D717-CFA5-C3B19AFA18BA}|PARARTH.Web\\PARARTH.Web.csproj|c:\\users\\shiva\\source\\repos\\pararth\\pararth.web\\the-pararth-trust-main\\the-pararth-trust-main\\the pararth trust\\logo.png||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BF0A5BDD-CFD7-D717-CFA5-C3B19AFA18BA}|PARARTH.Web\\PARARTH.Web.csproj|solutionrelative:pararth.web\\the-pararth-trust-main\\the-pararth-trust-main\\the pararth trust\\logo.png||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0A5BDD-CFD7-D717-CFA5-C3B19AFA18BA}|PARARTH.Web\\PARARTH.Web.csproj|c:\\users\\shiva\\source\\repos\\pararth\\pararth.web\\the-pararth-trust-main\\the-pararth-trust-main\\the pararth trust\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF0A5BDD-CFD7-D717-CFA5-C3B19AFA18BA}|PARARTH.Web\\PARARTH.Web.csproj|solutionrelative:pararth.web\\the-pararth-trust-main\\the-pararth-trust-main\\the pararth trust\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0A5BDD-CFD7-D717-CFA5-C3B19AFA18BA}|PARARTH.Web\\PARARTH.Web.csproj|c:\\users\\shiva\\source\\repos\\pararth\\pararth.web\\the-pararth-trust-main\\the-pararth-trust-main\\the pararth trust\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BF0A5BDD-CFD7-D717-CFA5-C3B19AFA18BA}|PARARTH.Web\\PARARTH.Web.csproj|solutionrelative:pararth.web\\the-pararth-trust-main\\the-pararth-trust-main\\the pararth trust\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0A5BDD-CFD7-D717-CFA5-C3B19AFA18BA}|PARARTH.Web\\PARARTH.Web.csproj|c:\\users\\shiva\\source\\repos\\pararth\\pararth.web\\pararth.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BF0A5BDD-CFD7-D717-CFA5-C3B19AFA18BA}|PARARTH.Web\\PARARTH.Web.csproj|solutionrelative:pararth.web\\pararth.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shiva\\source\\repos\\PARARTH\\the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\donationpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\donationpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shiva\\source\\repos\\PARARTH\\the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3456E161-5195-AF69-47AA-752A56EBEF1B}|PARARTH.ApiService\\PARARTH.ApiService.csproj|c:\\users\\shiva\\source\\repos\\pararth\\pararth.apiservice\\pararth.apiservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3456E161-5195-AF69-47AA-752A56EBEF1B}|PARARTH.ApiService\\PARARTH.ApiService.csproj|solutionrelative:pararth.apiservice\\pararth.apiservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0A5BDD-CFD7-D717-CFA5-C3B19AFA18BA}|PARARTH.Web\\PARARTH.Web.csproj|c:\\users\\shiva\\source\\repos\\pararth\\pararth.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF0A5BDD-CFD7-D717-CFA5-C3B19AFA18BA}|PARARTH.Web\\PARARTH.Web.csproj|solutionrelative:pararth.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0A5BDD-CFD7-D717-CFA5-C3B19AFA18BA}|PARARTH.Web\\PARARTH.Web.csproj|c:\\users\\shiva\\source\\repos\\pararth\\pararth.web\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF0A5BDD-CFD7-D717-CFA5-C3B19AFA18BA}|PARARTH.Web\\PARARTH.Web.csproj|solutionrelative:pararth.web\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0A5BDD-CFD7-D717-CFA5-C3B19AFA18BA}|PARARTH.Web\\PARARTH.Web.csproj|c:\\users\\shiva\\source\\repos\\pararth\\pararth.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BF0A5BDD-CFD7-D717-CFA5-C3B19AFA18BA}|PARARTH.Web\\PARARTH.Web.csproj|solutionrelative:pararth.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0A5BDD-CFD7-D717-CFA5-C3B19AFA18BA}|PARARTH.Web\\PARARTH.Web.csproj|c:\\users\\shiva\\source\\repos\\pararth\\pararth.web\\wwwroot\\favicon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{BF0A5BDD-CFD7-D717-CFA5-C3B19AFA18BA}|PARARTH.Web\\PARARTH.Web.csproj|solutionrelative:pararth.web\\wwwroot\\favicon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3456E161-5195-AF69-47AA-752A56EBEF1B}|PARARTH.ApiService\\PARARTH.ApiService.csproj|c:\\users\\shiva\\source\\repos\\pararth\\pararth.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3456E161-5195-AF69-47AA-752A56EBEF1B}|PARARTH.ApiService\\PARARTH.ApiService.csproj|solutionrelative:pararth.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "favicon.png",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\PARARTH\\PARARTH.Web\\wwwroot\\favicon.png",
+              "RelativeDocumentMoniker": "PARARTH.Web\\wwwroot\\favicon.png",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\PARARTH\\PARARTH.Web\\wwwroot\\favicon.png",
+              "RelativeToolTip": "PARARTH.Web\\wwwroot\\favicon.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-07-20T10:20:12.007Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "server.js",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\PARARTH\\PARARTH.Web\\the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\server.js",
+              "RelativeDocumentMoniker": "PARARTH.Web\\the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\server.js",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\PARARTH\\PARARTH.Web\\the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\server.js",
+              "RelativeToolTip": "PARARTH.Web\\the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\server.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-20T11:22:40.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\PARARTH\\PARARTH.Web\\the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\package-lock.json",
+              "RelativeDocumentMoniker": "PARARTH.Web\\the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\package-lock.json",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\PARARTH\\PARARTH.Web\\the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\package-lock.json",
+              "RelativeToolTip": "PARARTH.Web\\the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\package-lock.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-20T11:22:26.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "logo.png",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\PARARTH\\PARARTH.Web\\the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\logo.png",
+              "RelativeDocumentMoniker": "PARARTH.Web\\the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\logo.png",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\PARARTH\\PARARTH.Web\\the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\logo.png",
+              "RelativeToolTip": "PARARTH.Web\\the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\logo.png",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-07-20T11:21:49.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\PARARTH\\PARARTH.Web\\the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\index.html",
+              "RelativeDocumentMoniker": "PARARTH.Web\\the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\index.html",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\PARARTH\\PARARTH.Web\\the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\index.html",
+              "RelativeToolTip": "PARARTH.Web\\the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-20T11:19:45.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\PARARTH\\PARARTH.Web\\the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\style.css",
+              "RelativeDocumentMoniker": "PARARTH.Web\\the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\style.css",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\PARARTH\\PARARTH.Web\\the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\style.css",
+              "RelativeToolTip": "PARARTH.Web\\the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-20T11:19:37.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PARARTH.Web",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\PARARTH\\PARARTH.Web\\PARARTH.Web.csproj",
+              "RelativeDocumentMoniker": "PARARTH.Web\\PARARTH.Web.csproj",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\PARARTH\\PARARTH.Web\\PARARTH.Web.csproj",
+              "RelativeToolTip": "PARARTH.Web\\PARARTH.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-20T11:19:13.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "donationpage.html",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\PARARTH\\the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\donationpage.html",
+              "RelativeDocumentMoniker": "the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\donationpage.html",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\PARARTH\\the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\donationpage.html",
+              "RelativeToolTip": "the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\donationpage.html",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-20T10:55:07.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\PARARTH\\the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\index.html",
+              "RelativeDocumentMoniker": "the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\index.html",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\PARARTH\\the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\index.html",
+              "RelativeToolTip": "the-Pararth-trust-main\\the-Pararth-trust-main\\The Pararth Trust\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-20T10:50:22.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\PARARTH\\PARARTH.Web\\Components\\App.razor",
+              "RelativeDocumentMoniker": "PARARTH.Web\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\PARARTH\\PARARTH.Web\\Components\\App.razor",
+              "RelativeToolTip": "PARARTH.Web\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T10:49:22.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PARARTH.ApiService.csproj",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\PARARTH\\PARARTH.ApiService\\PARARTH.ApiService.csproj",
+              "RelativeDocumentMoniker": "PARARTH.ApiService\\PARARTH.ApiService.csproj",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\PARARTH\\PARARTH.ApiService\\PARARTH.ApiService.csproj",
+              "RelativeToolTip": "PARARTH.ApiService\\PARARTH.ApiService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-20T10:48:45.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\PARARTH\\PARARTH.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeDocumentMoniker": "PARARTH.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\PARARTH\\PARARTH.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeToolTip": "PARARTH.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-20T10:26:25.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\PARARTH\\PARARTH.ApiService\\appsettings.json",
+              "RelativeDocumentMoniker": "PARARTH.ApiService\\appsettings.json",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\PARARTH\\PARARTH.ApiService\\appsettings.json",
+              "RelativeToolTip": "PARARTH.ApiService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-20T10:25:35.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\PARARTH\\PARARTH.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "PARARTH.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\PARARTH\\PARARTH.Web\\appsettings.json",
+              "RelativeToolTip": "PARARTH.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-20T10:19:38.407Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
